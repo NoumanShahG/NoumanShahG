@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nouman Shah
-- 👀 I’m interested in Web design and development
+- 👀 I’m interested in Web/Mobile design and development
 - 🌱 I’m currently learning advance Nextjs concepts
 - 📫 How to reach me (noumanshah098098@gmail.com)
 
